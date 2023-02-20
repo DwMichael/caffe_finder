@@ -1,6 +1,6 @@
 # caffe_finder
 
-A new Flutter project.
+realy simple app in Flutter language, nothing special.
 
 ## Getting Started
 
